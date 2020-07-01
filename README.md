@@ -5,7 +5,7 @@
 - Responsive design.
 - Swap button to swap between currencies rates.
 
-### Watch this running live on [Codepen!](https://codepen.io/karangaba/pen/eYJeEep)
+### Watch this running live on [Codepen!](https://codepen.io/karangaba/full/eYJeEep)
 
 ---
 ## Contact me on:
