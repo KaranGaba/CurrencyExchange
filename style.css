@@ -24,7 +24,8 @@ p {
   border-radius: 5px;
   font-size: 1rem;
 }
-#currency-one {
+#currency-one,
+#currency-two {
   border: 2px solid #7070ff;
 }
 .currency input {
@@ -40,9 +41,7 @@ p {
   background: #7070ff;
   color: #fff;
 }
-.swap-rate {
-  display: flex;
-  justify-content: space-between;
+#rateText {
+  font-size: 2rem;
   color: #7070ff;
-  align-items: center;
 }
